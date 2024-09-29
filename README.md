@@ -10,7 +10,7 @@ Link to live demo: (will become available upon implementing all desired features
 
 # How It's Made: Tech used: HTML, CSS, JavaScript
 
-TBD
+(will be added later on)
 
 # Optimizations:
 
